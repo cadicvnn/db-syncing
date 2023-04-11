@@ -4,9 +4,9 @@ This is a project for synchronize data from a database to another database.
 
 ## Stack
 
--   Ruby (v3.0.2)
--   Rails (v)
--   MySQL ()
+- Ruby (v3.0.2)
+- Rails (v)
+- MySQL (v)
 
 ## 1. Installation
 
